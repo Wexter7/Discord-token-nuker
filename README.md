@@ -2,7 +2,7 @@
 Download the Wexter Token Nuker 
 Tested on python 3.8
 
-Options  
+Options : 
 
 1 Nuke targetted account
 
