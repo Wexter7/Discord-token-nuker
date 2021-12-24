@@ -11,9 +11,9 @@ Tested on python 3.8
 
 Options : 
 
-1 Nuke targetted account
+1 Nuke an account
 
-2 Get information from a targetted account
+2 Get info
 
 3 Exit
 
