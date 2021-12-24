@@ -1,20 +1,3 @@
-"""
-Extra Credit:
-
-This code is a rewrite of the following repository:
-https://github.com/Wexter7/Jajaja-Account-Nuker
-
-
-The following changes have been made to improve the usablity of this code:
-
-- The disable command has been removed, as it was patched shortly after the release of the Jajaja account nuker.
-- Important files (required for the code to run properly) have been included in the repository as an external download.
-- An install_requirements.cmd file has been introduced.
-
-Permission Notice:
-The creator of the Jajaja account nuker, @azaelgg, has given me full permission to include the code into the tool repository I have created.
-"""
-
 
 # Scripted by Wexter (https://github.com/Wexter7)
 # Wexter Tool under the GNU General Public Liscense v2 (1991).
